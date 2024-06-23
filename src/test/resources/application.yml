@@ -1,0 +1,7 @@
+spring:
+  application.name: acquaintance
+  profiles.default: test
+
+logging:
+  level:
+    root: info
