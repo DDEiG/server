@@ -14,8 +14,8 @@ spring:
       show_sql: false
       highlight_sql: true
 
-#  flyway:
-#    enabled: true
+  flyway:
+    enabled: false
 #    baseline-on-migrate: true
 #    locations: db/migration # 로컬 or 개발환경 테스트 DML은 코드로 생성
 #    clean-disabled: false
